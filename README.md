@@ -1,7 +1,7 @@
 ## Jordão Campelo
 Software Developer 👨‍💻 | Data Analyst 📊 | Nerd 🧙‍♂️ | Chess Enthusiast ♟️ | Passionate about Technology 🚀
 
-Greetings! I'm Jordão, a tech enthusiast with a history in data analysis, a love for chess, and a touch of nerdiness. Whether it's crafting winning strategies in code, making strategic moves on the chessboard, or unraveling insights from data, my journey is a blend of technology, tactics, and curiosity.
+Greetings! I'm Jordão, a software engineer with a history in data analysis, a love for chess, and a touch of nerdiness. Whether it's crafting winning strategies in code, making strategic moves on the chessboard, or unraveling insights from data, my journey is a blend of technology, tactics, and curiosity.
 
 ### Languages and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
